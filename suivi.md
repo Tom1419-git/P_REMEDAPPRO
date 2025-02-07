@@ -18,4 +18,9 @@
     - Ok, continuez
  
 - Journal de travail
-    - ...
+    - Début du cours review sur les fichiers .md = 15 minutes
+    - Fin de l'insatllation de fedora = 45 minutes 
+    - écriture du rapport = 20 minutes 
+    - Création du tutoriel pour l'ouverture des explorateurs de fichiers = 15 minutes 
+    - Création du tutoriel pour le doublage de la RAM de la VM = 10 minutes 
+    - Installation de Windows 11 sur la deuxième machine virtuelle = 45 minutes
