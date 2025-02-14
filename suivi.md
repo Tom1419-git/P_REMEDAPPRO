@@ -24,3 +24,12 @@
     - Création du tutoriel pour l'ouverture des explorateurs de fichiers = 15 minutes 
     - Création du tutoriel pour le doublage de la RAM de la VM = 10 minutes 
     - Installation de Windows 11 sur la deuxième machine virtuelle = 45 minutes
+
+## 14.2
+
+- Feedback XCL
+    - Ok, continuez
+    - Il semble que vous progressez rapidement. Commencez à réfléchir à la question : qu'est-ce que je fais quand j'ai atteint les objectifs ?
+
+ - Journal de travail
+    - ...
