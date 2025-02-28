@@ -36,4 +36,10 @@
     - Réinstallation de Windows11 sur la deuxième VM suite à un crash = 45 minutes
     - écriture du guide d'installation = 15 minutes 
     - Réinstallation de Fedora (en partie) à cause du BUG = 25 minutes 
+
+## Vendredi 28 Février 2025
+
+- Feedback XCL
+    - Ok, continuez
+    - J'aimerais voir le résultat de la réflexion demandée la semaine passée apparaître dans votre repo (soit dans le JdT soit dans un document séparé)
     
