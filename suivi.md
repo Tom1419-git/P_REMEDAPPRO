@@ -42,4 +42,18 @@
 - Feedback XCL
     - Ok, continuez
     - J'aimerais voir le résultat de la réflexion demandée la semaine passée apparaître dans votre repo (soit dans le JdT soit dans un document séparé)
+
     
+- Retour réflexion 
+    - Je vais peaufiner mon rapport en améliorant la formulation des phrases et en joutant des éléments visuels. 
+    
+- Journal de travail 
+    - fin de l'installation de fedora = 30 minutes 
+    - modification de l'ip sur les deux machines (Fedora et Windows) = 90 minutes 
+    - écriture du rapport = 15 minutes 
+
+- Avancée du projet (Rétrospective)
+   - L'objectif numéro un est complété 
+   - l'objectif numéro deux est en cours car il nécessite que le travail sur les machines virtuelles soit totalement terminé
+   - L'objectif numéro 3 est validé 
+   - L'objectif numéro 4 a été commencé aujourd'hui
