@@ -59,7 +59,7 @@
    - L'objectif numéro 4 a été commencé aujourd'hui
 
 
-## 7.3
+## Vendredi 7 Mars 2025
 
 - Feedback XCL
     - Journal Ok
@@ -69,3 +69,6 @@
         - Vous perdez les bénéfices d'avoir un historique de l'avancement de votre travail
         
 - Journal de travail
+
+    -
+    - 
