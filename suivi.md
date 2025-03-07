@@ -57,3 +57,15 @@
    - l'objectif numéro deux est en cours car il nécessite que le travail sur les machines virtuelles soit totalement terminé
    - L'objectif numéro 3 est validé 
    - L'objectif numéro 4 a été commencé aujourd'hui
+
+
+## 7.3
+
+- Feedback XCL
+    - Journal Ok
+    - Commits Git: problème important: votre document n'est pas dans votre repo
+        - Je ne peux pas suivre votre progression autrement que par votre jdt, c'est insuffisant
+        - Vous prenez le risque de perdre votre document
+        - Vous perdez les bénéfices d'avoir un historique de l'avancement de votre travail
+        
+- Journal de travail
