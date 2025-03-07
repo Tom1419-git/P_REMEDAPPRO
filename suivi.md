@@ -70,5 +70,5 @@
         
 - Journal de travail
 
-    -
-    - 
+    - Réalisation du status.md = 45 minutes
+    - écriture du rapport = 90 minutes 
