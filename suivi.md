@@ -74,7 +74,7 @@
     - écriture du rapport = 90 minutes 
 
 
-## 14.3
+## Vendredi 14 Mars 2025
 
 - Feedback XCL
     - Réalisation du status.md : 45 minutes ? Quel est le problème ?
@@ -82,4 +82,9 @@
     - J'ai un gros **PROBLEME** avec votre projet: d'après ce que vous me présentez, le résultat de votre travail de vendredi passé se limite à un fichier markdown de 8 lignes pour 135 minutes de travail. Est-ce que je peux dire que c'est recevable ?
 
 - Journal de travail
-    -
+    - Finalisation du rapport = 30 minutes 
+    - Apprentissage de comment faire un release = 10 minutes 
+    
+
+
+- **Fin du Projet**
