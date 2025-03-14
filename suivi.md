@@ -72,3 +72,14 @@
 
     - Réalisation du status.md = 45 minutes
     - écriture du rapport = 90 minutes 
+
+
+## 14.3
+
+- Feedback XCL
+    - Réalisation du status.md : 45 minutes ? Quel est le problème ?
+    - Votre rapport ne figure toujours pas dans le repo malgré mes remarques des deux semaines précédentes
+    - J'ai un gros **PROBLEME** avec votre projet: d'après ce que vous me présentez, le résultat de votre travail de vendredi passé se limite à un fichier markdown de 8 lignes pour 135 minutes de travail. Est-ce que je peux dire que c'est recevable ?
+
+- Journal de travail
+    -
