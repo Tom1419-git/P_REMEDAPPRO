@@ -102,3 +102,5 @@ environnement similaire dispose désormais d’un mode d’emploi clair et préc
     - M'envoyer la notification que la release a été faite.
 
   Je ne validerai les périodes de ce projet que si ces trois conditions sont remplies d'ici à lundi.
+
+- Il y a encore un autre problème: votre journal de travail ne montre que 40 minutes de travail vendredi 14 mars. Soit vous avez fait quelque chose d'utile et il est dommage de ne pas en avoir fait mention, soit vous n'avez rien fait pendant deux périodes et là il y a un problème d'attitude face au travail. Dans le monde professionnel qui vous attend, quand on vous paye pour trois heures, on attend de vous que vous travailliez pendant trois heures.
