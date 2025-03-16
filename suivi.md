@@ -88,3 +88,17 @@
 
 
 - **Fin du Projet**
+
+# Conclusion
+
+- Votre rapport est de bonne qualité. Mais il n'est pas parfait. Je ne suis pas d'accord avec votre conclusion : "Grâce à ce rapport, toute personne souhaitant mettre en place un
+environnement similaire dispose désormais d’un mode d’emploi clair et précis pour y parvenir".
+    - Il ne contient aucune introduction. On ne sait pas quels sont les objectifs visés. Par conséquent, quelqu'un qui souhaite installer un dual boot sur une machine est obligé de lire l'ensemble de votre rapport pour savoir si ce qu'il veut faire est bien similaire à ce que vous décrivez dans votre document.
+    - Il ne dit pas quels sont les prérequis à satisfaire avant de pouvoir commencer à suivre votre procédure. Quel hardware minimal est nécessaire ? Combien de RAM ? Combien de disque dur ? Quelle est la version de Virtualbox que je dois employer ? Toutes ces questions sans réponse.
+ 
+- J'ai un problème beaucoup plus grave avec votre projet en général: le suivi des consignes. Je vous ai demandé par deux fois et par écrit dans mes feedback de mettre votre document dans le repos sous son format Word. Je vous en ai expliqué les raisons vendredi passé. Malgré tout, cela n'a pas été fait. Par conséquent, je vous laisse jusqu'à lundi 17 mars pour:
+    - Ajouter votre rapport au format Word dans le repo au moyen d'un commit bien nommé.
+    - Faire une release de correction dans Git.
+    - M'envoyer la notification que la release a été faite.
+
+  Je ne validerai les périodes de ce projet que si ces trois conditions sont remplies d'ici à lundi.
