@@ -84,7 +84,7 @@
 - Journal de travail
     - Finalisation du rapport = 30 minutes 
     - Apprentissage de comment faire un release = 10 minutes 
-    
+    - J'ai aidé certains camarades pour leur projet de développement (bataille navale ou Mastermind)= 95 minutes
 
 
 - **Fin du Projet**
